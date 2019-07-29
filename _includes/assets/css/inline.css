@@ -20,6 +20,8 @@ body {
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--turkey);
+  max-width: 40em;
+  margin: auto;
 }
 
 main {

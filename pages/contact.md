@@ -3,7 +3,7 @@ layout: layouts/contact.njk
 title: Get in touch
 tags:
   - nav
-navtitle: Unete ✊
+navtitle: ¡No a la corrupción 👿!
 SECTION: contact
 date: 2018-01-01
 permalink: /contact/index.html

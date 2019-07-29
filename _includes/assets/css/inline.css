@@ -187,3 +187,12 @@ button {
 		font-size: 1.1rem;
 	}
 }
+
+
+h1 {
+    font-weight: 400;
+    font-size: 38px;
+    margin: 0.8em 0em 0.8em 0em;
+    line-height: 120%;
+    font-family: 'Impact', sans-serif;
+}

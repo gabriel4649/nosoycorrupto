@@ -3,8 +3,8 @@ layout: layouts/contact.njk
 title: Get in touch
 tags:
   - nav
-navtitle: Contactanos
-section: contact
+navtitle: Unete ✊
+SECTION: contact
 date: 2018-01-01
 permalink: /contact/index.html
 ---

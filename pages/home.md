@@ -15,14 +15,20 @@ tags:
 
 # ¿Como pomdemos resolver estos problemas?
 
-Puerto Rico puede ser un paraiso. Nuestra isla es bella y contamos con talento excepcional. ¿Por que no funcionan las cosas?
+Puerto Rico puede ser un paraiso. Nuestra isla es bella y contamos con talento excepcional. 
+
+## ¿Por que no funcionan las cosas?
+
+Una de las causas principales es la mala administración gubernamental y la corrupción.
+
+## ¿Por que hay tanto corrupción?
+
+Mucha de la corrupción es directamente asociada a la venta de influencias. 
+
+Para poder financiar sus campañas politicas, la mayoría de los politicos recurren a donantes grandes en eventos privados.  
+Los politicos también recurren a donaciones de corporaciones y millonarios que pretenden acceder a contratatos e información. 
 
 
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on Github.
-
-Or click the button below to deploy your own copy of this project to Netlify.

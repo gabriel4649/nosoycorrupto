@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: ¿Que es corrupcion?
+title: No soy corrupto
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 navtitle: ¿Que es corrupcion?
